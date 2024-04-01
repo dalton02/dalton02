@@ -6,12 +6,6 @@ Olá! Eu sou Dalton Gomes, desenvolvedor full-stack 👋
 
 🎯 - Dev Full-stack
 
-🤓 - Programo em NodeJS, TypeScript, C/C++/C#, Java e PHP
-
-😎 - Tenho facilidade em aprender novas linguagens
-
-⚡ - Amo tecnologia 
-
 ##
 [![portfolio](./Vetor.svg)](https://dalton02.github.io/webportfolio/)
 ##

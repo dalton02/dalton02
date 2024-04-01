@@ -21,3 +21,4 @@ Olá! Eu sou Dalton Gomes, desenvolvedor full-stack 👋
 ![dalton02's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dalton02&theme=vue-dark&hide_border=true)
 
 
+![alt text](Vetor Portf.svg)

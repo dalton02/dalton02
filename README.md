@@ -17,7 +17,9 @@
 
 ###
 
-<p align="left">Meu nome é Dalton Gomes, sou estudante de Ciência da Computação na UFCA<br><br>- 🔭 Sou desenvolvedor full-stack<br>- 📚 Atualmente focado em aprender novas frameworks</p>
+<p align="left">Meu nome é Dalton Gomes, sou estudante de Ciência da Computação na UFCA
+<br><br>- 🔭 Sou desenvolvedor full-stack
+<br>- 📚 Atualmente focado em aprender novas frameworks</p>
 
 ###
 

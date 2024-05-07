@@ -7,10 +7,11 @@
   </a>
 </div>
 
-
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3000&pause=500&center=true&vCenter=true&random=false&width=500&lines=Hi+everyone+%F0%9F%91%8B%F0%9F%91%8B" alt="Typing SVG" /></a>
-</div>
+<h1><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=3000&pause=500&center=true&vCenter=true&random=false&width=500&lines=Hi+everyone+%F0%9F%91%8B%F0%9F%91%8B" alt="Typing SVG" /></a>
+</h1></div>
+
+###
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://github.com/dalton02/dalton02/blob/main/linux.gif" alt="Typing SVG" /></a>

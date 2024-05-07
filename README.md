@@ -1,9 +1,9 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/dalton-gomes/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
   </a>
   <a href="https://www.instagram.com/dalton.gomes___/">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="left">🛠 Languages and Tools</h3>
+<h3 align="left">🛠 Tech Stack</h3>
 
 ###
 
@@ -59,7 +59,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dalton02&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=dalton02&theme=vue-dark&show_icons=true&hide_border=true&count_private=false" height="200" alt="streak graph"  /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalton02&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="200" />
 </div>
 
 <div align="center">

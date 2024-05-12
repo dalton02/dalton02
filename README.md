@@ -13,10 +13,6 @@
 
 ###
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://github.com/dalton02/dalton02/blob/main/linux.gif" alt="Typing SVG" /></a>
-</div>
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
